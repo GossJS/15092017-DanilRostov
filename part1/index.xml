@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE tabel PUBLIC "DanielRossy" "validation.dtd">
+<tabel>
+	<student name="student1">
+		<mark subject="multimedia">2</mark>
+		<mark subject="web-design">4</mark>
+		<mark subject="graphics">5</mark>
+	</student>
+	<student name="student2">
+		<mark subject="multimedia">4</mark>
+		<mark subject="web-design">4</mark>
+		<mark subject="graphics">5</mark>
+	</student>
+	<student name="student3">
+		<mark subject="multimedia">3</mark>
+		<mark subject="web-design">3</mark>
+		<mark subject="graphics">5</mark>
+	</student>
+</tabel>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!ELEMENT myrepresentation (hardskills, softskills, experiences) >
+
+<!ELEMENT hardskills (hardskill+) >
+<!ATTLIST hardskill
+   name	CDATA	#REQUIRED >
+
+<!ELEMENT softskills (softskill+) >
+<!ATTLIST softskill
+   name	CDATA	#REQUIRED >
+
+<!ELEMENT experiences (experience+) >
+<!ATTLIST experience
+   name	CDATA	#REQUIRED >
